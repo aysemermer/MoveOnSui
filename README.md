@@ -10,21 +10,22 @@ Akıllı sözleşme, iki hesap arasında fon transferini kolaylaştırır. Bu, M
 
 Akıllı sözleşme projem hata verdiği için Devnet sözleşme adresim yok. 
  
-![image](https://github.com/aysemermer/MoveOnSui/assets/80275710/1e3ea8f1-0d90-4690-93bd-eded000bf850) 
-
+![image](https://github.com/aysemermer/MoveOnSui/assets/80275710/08d43daa-926e-44ca-8a06-1a3d089e37b7)
+ 
 (movetoken.move kod blogu ekran alıntısı)
 
 
 
 
-![image](https://github.com/aysemermer/MoveOnSui/assets/80275710/dbc8ccd1-7946-4eb7-b08a-da5e945f5a87) 
+![image](https://github.com/aysemermer/MoveOnSui/assets/80275710/1eb8c36b-3029-4785-b464-3dca4dbeb443)
 
 (move.toml kod bloğu ekran alıntısı)
 
 
 
 
-![image](https://github.com/aysemermer/MoveOnSui/assets/80275710/9c00147b-cef2-4206-ac50-d074e3cbd3f9) 
+![image](https://github.com/aysemermer/MoveOnSui/assets/80275710/1c391b55-e5b3-480f-ac3d-ddd222b1a3c3)
+
 
 (aldığım hata kodu)
 
